@@ -22,6 +22,6 @@
 # ターボワープ
 <!DOCTYPE html>
 <body>
-    <a href="https://turbowarp.org/" class="yahoo-button">turbowarp</a>
+    <a href="https://turbowarp.org/" class="google-button">turbowarp</a>
 </body>
 </html>

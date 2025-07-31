@@ -19,3 +19,9 @@
 </body>
 </html>
 
+# ターボワープ
+<!DOCTYPE html>
+<body>
+    <a href="https://turbowarp.org/" class="yahoo-button">turbowarp</a>
+</body>
+</html>

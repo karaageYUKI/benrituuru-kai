@@ -12,10 +12,10 @@
 </body>
 </html>
 
-# 操作、編集用
+# 動画ダウンローダー
 <!DOCTYPE html>
 <body>
-    <a href="" class="google-button">STKブログへ移動</a>
+    <a href="https://aquapp.net/online-video-downloader/" class="google-button">STKブログへ移動</a>
 </body>
 </html>
 
